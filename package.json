@@ -1,0 +1,23 @@
+{
+  "name": "course_dojo",
+  "version": "1.0.0",
+  "description": "/play greatjob Course Dojo built on MEAN Stack /play greatjob",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyennam9696/Course_Dojo.git"
+  },
+  "author": "Nam Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyennam9696/Course_Dojo/issues"
+  },
+  "homepage": "https://github.com/nguyennam9696/Course_Dojo#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0"
+  }
+}
